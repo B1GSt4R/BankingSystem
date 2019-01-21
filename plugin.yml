@@ -1,0 +1,5 @@
+name: CoinBanking
+version: 1.0
+authors: [B1GSt4R]
+website: http://www.blockstone.de
+main: de.B1GSt4R.Main.System
